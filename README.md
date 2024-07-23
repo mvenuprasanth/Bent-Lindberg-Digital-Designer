@@ -1,1 +1,2 @@
 # Bent-Lindberg-Digital-Designer
+It's a Profile Clone of Bent Lindberg who is very well known Digital Designer who builds Profiles in a modern way od using Web Technolgies like Html,Css and Javascript and I felt that its very good to make it because it has many css properties where i'll be using and it booasted my confidence levels while i'd made and though it looks simple at first but there's alot in it if we make it a big project.
